@@ -1,0 +1,22 @@
+body{
+    background: darkgray;
+    font-family: 'Open Sans', sans-serif;
+    color:white;
+    display:grid;
+    grid-template-rows: 50px 1fr 50px;
+    padding:50px;
+}
+
+.input{
+    width: 200px;
+    height: 100px;
+    background: white;
+    margin:20px 0 0 50px;
+}
+
+.button{
+    background: green;
+    color:white;
+    width: 150px;
+    margin:auto;
+}
