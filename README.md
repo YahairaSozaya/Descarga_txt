@@ -3,4 +3,4 @@
 ## Practica: Escribir un texto y descargarlo en un archivo txt
 
 
-![Alt text](readme.png "imagen readme")
+<img src="./readme.png" alt="imagen readme" width="400px">
